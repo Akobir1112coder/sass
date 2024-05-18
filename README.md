@@ -1,1 +1,1 @@
-Salom bu Sass da birinchi ilovam
+Hi, this is my first project in Sass
